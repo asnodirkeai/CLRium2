@@ -1,0 +1,5 @@
+D:\CLRium\CLRium\ILDasmTest\bin\Debug\ILDasmTest.dll
+D:\CLRium\CLRium\ILDasmTest\bin\Debug\ILDasmTest.pdb
+D:\CLRium\CLRium\ILDasmTest\obj\Debug\ILDasmTest.csprojResolveAssemblyReference.cache
+D:\CLRium\CLRium\ILDasmTest\obj\Debug\ILDasmTest.dll
+D:\CLRium\CLRium\ILDasmTest\obj\Debug\ILDasmTest.pdb

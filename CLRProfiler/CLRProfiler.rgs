@@ -1,0 +1,15 @@
+HKCR
+{
+	CLRProfiler.Profiler = s 'CLRProfiler Class'
+	{
+		CLSID = s '{2ED95C82-B19C-49C3-BE8E-765EC16CF33B}'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {2ED95C82-B19C-49C3-BE8E-765EC16CF33B} = s 'CLRProfiler Class'
+		{
+			ProgID = s 'CLRProfiler.Profiler'
+			InprocServer32 = s '%MODULE%'
+		}
+	}
+}

@@ -1,0 +1,14 @@
+D:\CLRium\CLRium\Launcher\bin\Debug\Launcher.exe.config
+D:\CLRium\CLRium\Launcher\bin\Debug\Launcher.exe
+D:\CLRium\CLRium\Launcher\bin\Debug\Launcher.pdb
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+D:\CLRium\CLRium\Launcher\obj\Debug\MainWindow.g.cs
+D:\CLRium\CLRium\Launcher\obj\Debug\App.g.cs
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+D:\CLRium\CLRium\Launcher\obj\Debug\MainWindow.baml
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.g.resources
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.exe
+D:\CLRium\CLRium\Launcher\obj\Debug\Launcher.pdb

@@ -1,0 +1,26 @@
+// CLRProfiler.idl : IDL source for CLRProfiler
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (CLRProfiler.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(94C6B394-1252-4BCA-AD7C-3E381E9259D4),
+	version(1.0),
+]
+library CLRProfilerLib
+{
+	importlib("stdole2.tlb");
+  [
+    uuid(2ED95C82-B19C-49C3-BE8E-765EC16CF33B),
+  ]
+  coclass ProfilerCallback
+  {
+    [default] interface IUnknown;
+  };
+
+};
+

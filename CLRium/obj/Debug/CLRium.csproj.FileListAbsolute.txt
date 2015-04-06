@@ -1,0 +1,6 @@
+D:\CLRium\CLRium\CLRium\bin\Debug\CLRium.exe.config
+D:\CLRium\CLRium\CLRium\bin\Debug\CLRium.exe
+D:\CLRium\CLRium\CLRium\bin\Debug\CLRium.pdb
+D:\CLRium\CLRium\CLRium\obj\Debug\CLRium.csprojResolveAssemblyReference.cache
+D:\CLRium\CLRium\CLRium\obj\Debug\CLRium.exe
+D:\CLRium\CLRium\CLRium\obj\Debug\CLRium.pdb
